@@ -1,0 +1,19 @@
+﻿  AnalizadorLexico.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(172): warning C4267: 'inicializando': conversión de 'size_t' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\luise\Documents\Compiladores241\Proyecto 1\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico.hpp(211,84): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<std::string,int>::pair<std::string&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)" que se está compilando
+          with
+          [
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+C:\Users\luise\Documents\Compiladores241\Proyecto 1\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico.hpp(211,33): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<std::string,int>::pair<std::string&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)" que se está compilando
+          with
+          [
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+  AnalizadorLexico.vcxproj -> C:\Users\luise\Documents\Compiladores241\Proyecto 1\AnalizadorLexico\x64\Debug\AnalizadorLexico.exe

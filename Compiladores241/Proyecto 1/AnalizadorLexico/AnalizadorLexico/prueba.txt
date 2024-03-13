@@ -1,0 +1,28 @@
+int main main ( ){
+	int x = 5551;
+	float dinero =152.55;
+	char y='c';
+	variable2 ;
+	var
+	while (x< 1){
+	}
+	printf("Es una string");
+	a + b;
+	b +c ;
+	as
+	5555__a;
+	a_sa
+	+
+	=
+	__a
+	_asa_8541
+	-asdas
+	_asdsad_
+	'asaas';
+	'q'
+	5654262.45623.4623
+	45632.5623
+	.8561230
+	var+b
+	variable
+}

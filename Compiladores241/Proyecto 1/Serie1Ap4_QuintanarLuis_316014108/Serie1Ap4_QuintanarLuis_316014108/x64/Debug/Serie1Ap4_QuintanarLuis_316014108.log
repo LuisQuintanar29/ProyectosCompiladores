@@ -1,0 +1,7 @@
+﻿x64\Debug\EjercicioB.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+x64\Debug\EjercicioD.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+x64\Debug\EjercicioI.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+main.obj : error LNK2019: símbolo externo "public: void __cdecl EjercicioB::iniciarB(void)" (?iniciarB@EjercicioB@@QEAAXXZ) sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo "public: void __cdecl EjercicioD::iniciarD(void)" (?iniciarD@EjercicioD@@QEAAXXZ) sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo "public: void __cdecl EjercicioI::iniciarI(void)" (?iniciarI@EjercicioI@@QEAAXXZ) sin resolver al que se hace referencia en la función main
+C:\Users\luise\Documents\Compiladores241\Proyecto 1\Serie1Ap4_QuintanarLuis_316014108\x64\Debug\Serie1Ap4_QuintanarLuis_316014108.exe : fatal error LNK1120: 3 externos sin resolver
